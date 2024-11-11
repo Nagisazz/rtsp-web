@@ -12,8 +12,7 @@ rtsp在线播放，包含h265和h264两种方案
 
 ## 启动方式
 ### 服务端
-1. Docker镜像已经传到hub仓库，直接运行run脚本即可
-2. 服务端代码只有index.js，docker镜像在Dockerfile中，有需要可以自行打包部署
+服务端代码只有index.js，docker构建在Dockerfile中，可以自行打包部署
 ### web端
 1. npm i
 2. npm run dev

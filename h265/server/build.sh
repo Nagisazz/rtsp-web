@@ -1,1 +1,1 @@
-docker build -t ffmpegh265-node-flv .
+docker build -t nagisazz/ffmpegh265-node-flv .
